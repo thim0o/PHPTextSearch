@@ -9,7 +9,7 @@ This is a little PHP script that let's the user search in a txt file on the serv
 
 
 
-By default it shows all the lines that match the search query as links. You can change in results.php
+By default it shows all the lines that match the search query as links. You can change this in results.php
 
 It doesn't look fancy, but it's pretty fast and it works :)
 This is my first PHP script ever so please tell me if there's something I can improve in the code.
